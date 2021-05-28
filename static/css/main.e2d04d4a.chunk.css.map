@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,WACE,SAAU,CACV,eACF,CAEA,OACE,SACF","file":"main.e2d04d4a.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.todo-list {\n  padding: 0;\n  list-style: none;\n}\n\n.error {\n  color: red;\n}\n"]}
